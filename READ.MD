@@ -1,0 +1,1 @@
+There are a lot of git commands that are generally used. One is the "git init" which creates a working copy of a local repository. Another one is "git add" which adds files to staging then uses "git commit -m" to commit changes to head. There are also "git push" and "git checkout". There are a lot more commands that are generally used.
